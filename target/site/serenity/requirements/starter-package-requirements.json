@@ -1,0 +1,1 @@
+[{"displayName":"Suite","name":"Suite","id":"Suite","type":"feature","path":"","narrative":{"name":"Narrative","text":""},"children":[{"displayName":"Testsuite","name":"Testsuite","id":"Testsuite","type":"story","path":"suite","narrative":{"name":"Narrative","text":""},"parent":"Suite","scenarioTags":{},"containsNoScenarios":false}],"scenarioTags":{},"containsNoScenarios":false}]
